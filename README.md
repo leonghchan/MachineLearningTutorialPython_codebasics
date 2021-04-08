@@ -1,4 +1,4 @@
-# MachineLearningTutorialPython_codebasics
+# Machine Learning Tutorial Python by codebasics
 Guided by the Machine Learning Tutorial Python YouTube course by codebasic. This course offers an introduction to machine learning 
 using Python and covers techniques such as: 
 - Linear regression (single and multi-variable)
